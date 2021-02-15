@@ -89,29 +89,14 @@
 </template>
 
 <script>
+import menu from "../data/mockMenu.json"
 export default {
   data () {
     return {
       clipped: false,
       drawer: false,
       fixed: false,
-      items: [
-        {
-          icon: 'mdi-apps',
-          title: 'Welcome',
-          to: '/'
-        },
-        {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
-        },
-        {
-          icon: 'mdi-apps',
-          title: 'Pagina1',
-          to: '/pagina1'
-        }
-      ],
+      items: menu,
       miniVariant: false,
       right: true,
       rightDrawer: false,

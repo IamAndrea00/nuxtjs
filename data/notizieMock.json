@@ -1,0 +1,20 @@
+[
+    {   
+        "id": 1,
+        "titolo": "Titolo 1",
+        "testo": "Testo 1",
+        "immagine": "IMG1.jpeg"
+    },
+    {
+        "id": 2,
+        "titolo": "Titolo 2",
+        "testo": "Testo 2",
+        "immagine": "IMG2.jpeg"
+    },
+    {
+        "id": 3,
+        "titolo": "Titolo 3",
+        "testo": "Testo 3",
+        "immagine": "IMG3.jpeg"
+    }
+]

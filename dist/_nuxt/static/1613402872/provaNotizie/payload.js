@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/provaNotizie", {data:[{}],fetch:[],mutations:void 0});
